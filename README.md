@@ -1,1 +1,2 @@
 # Account-Management-Automation
+Python Script automates the process of grabbing household data from Facet Wealth App and copying that data into Fidelity new account creation tool. Previously this process could take 20+ minutes. Script drastically cuts down time to 3 minutes with automated and manual verification. Requires minimal input from user. Script uses two drivers. One to open Facet Wealth app and copy client data, and a second driver to open Wealthscape website and new account creation tool window.
